@@ -37,7 +37,7 @@ backpackGenetics_tests.py: Contains some unit tests on the functions in the gene
 
 To run the gentic algorithm, run:
     
-        - python backpackGenetics.py
+        python backpackGenetics.py
      
 Then specify the number of individuals you want to be in the search population by entering a value from 20-100. After that, the program will print out some details about the initial population and the first search in the gentic algorithm. 
     
